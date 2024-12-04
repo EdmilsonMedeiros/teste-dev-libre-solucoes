@@ -24,7 +24,7 @@
  - API ViaCEP
 
 #OBSERVAÇÕES:
-*As views se encontram dentro de C:\Users\Edmilson Jarbson\Desktop\libre-project\resources\js\Pages*<br>
+*As views se encontram dentro de \resources\js\Pages*<br>
 *O projeto está em monolito Laravel+VueJS com Inertia*<br>
 *Para o banco de dados foram implementadas 2 tabelas fora as padrões do Laravel: contacts e addresses e consequentemente 3 models sendo eles User, Contact e Adress*<br>
 
