@@ -1,3 +1,45 @@
+## INSTRUÇÕES:
+*As instruções abaixo são orientações para buidar e servir o sistema de cadastro de contatos*
+
+ - Clone o repositório: <code>git clone https://link_do_repositorio</code><br>
+ - Entre na pasta do projeto: <code>cd nome_projeto_clonado</code><br>
+ - Instale o composer: <code>php artisan composer install</code><br>
+ - Instale node_modules com npm: <code>npm install</code><br>
+ - Configure a conexão com o seu banco de dados postgres no .env
+ - Execute as migrations: <code>php artisan migrate</code><br>
+ - Execute o DatabaseSeeder: <code>php artisan db:seed</code><br>
+ - Sirva a aplicação: <code>php artisan serve</code><br>
+ - Para buldar a aplicação: <code>npm run dev</code><br>
+ - Acesse a URL fornecida quando serviu a aplicação e faça Login com as credenciais abaixo:<br>
+   - User: johndoe@example.com<br>
+   - Password: secret<br>
+
+#Tecnologias utilizadas:
+ - Laravel 11
+ - PHP
+ - VueJS
+ - Bootstrap5
+ - PostgreSQL
+ - HTML, CSS, Javascript
+ - API ViaCEP
+
+#OBSERVAÇÕES:
+*As views se encontram dentro de C:\Users\Edmilson Jarbson\Desktop\libre-project\resources\js\Pages*
+*O projeto está em monolito Laravel+VueJS com Inertia*
+*Para o banco de dados foram implementadas 2 tabelas fora as padrões do Laravel: contacts e addresses e consequentemente 3 models sendo eles User, Contact e Adress*
+
+![alt text](image.png)
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
+
+![alt text](image-3.png)
+
+![alt text](image-4.png)
+
+#---------------------------------------------------#<br>
+
 # Libre Soluções de Governo
 ## Processo Seletivo - Desenvolvimento
 
