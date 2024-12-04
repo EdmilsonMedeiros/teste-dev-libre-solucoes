@@ -9,7 +9,7 @@
  - Execute as migrations: <code>php artisan migrate</code><br>
  - Execute o DatabaseSeeder: <code>php artisan db:seed</code><br>
  - Sirva a aplicação: <code>php artisan serve</code><br>
- - Para buldar a aplicação: <code>npm run dev</code><br>
+ - Para buildar a aplicação em desenvolvimento: <code>npm run dev</code><br>
  - Acesse a URL fornecida quando serviu a aplicação e faça Login com as credenciais abaixo:<br>
    - User: johndoe@example.com<br>
    - Password: secret<br>
