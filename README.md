@@ -3,7 +3,7 @@
 
  - Clone o repositório: <code>git clone https://link_do_repositorio</code><br>
  - Entre na pasta do projeto: <code>cd nome_projeto_clonado</code><br>
- - Instale o composer: <code>php artisan composer install</code><br>
+ - Instale o composer: <code>composer install</code><br>
  - Instale node_modules com npm: <code>npm install</code><br>
  - Configure a conexão com o seu banco de dados postgres no .env
  - Execute as migrations: <code>php artisan migrate</code><br>
